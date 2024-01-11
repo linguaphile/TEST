@@ -11,3 +11,6 @@ Delta compression using up to 4 threads.
 Compressing objects: 100% (3/3), done.
 Writing objects: 100% (3/3), 363 bytes | 72.00 KiB/s, done.
 Total 3 (delta 0), reused 0 (delta 0)
+
+
+This worked once but not again
