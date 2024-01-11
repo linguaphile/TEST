@@ -1,0 +1,11 @@
+git add *.txt
+
+git push https://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@github.com/linguaphile/TEST.git
+
+
+PS C:\Users\jallison\Desktop\TEST> git push https://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@github.com/linguaphile/TEST.git
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 363 bytes | 72.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
