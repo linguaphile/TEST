@@ -1,5 +1,7 @@
 git add *.txt
 
+git commit -m "latest data"
+
 git push https://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@github.com/linguaphile/TEST.git
 
 
