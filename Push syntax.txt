@@ -5,8 +5,8 @@ git commit -m "latest data"
 git push https://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@github.com/linguaphile/TEST.git
 
 
-PS C:\Users\jallison\Desktop\TEST> git push https://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@github.com/linguaphile/TEST.git
-Counting objects: 3, done.
+PS C:\Users\jallison\Desktop\TEST> 
+Counting objects: 3, done.git push https://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@github.com/linguaphile/TEST.git
 Delta compression using up to 4 threads.
 Compressing objects: 100% (3/3), done.
 Writing objects: 100% (3/3), 363 bytes | 72.00 KiB/s, done.
